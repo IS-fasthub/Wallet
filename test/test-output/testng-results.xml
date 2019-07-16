@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30446" started-at="2019-07-14T13:59:07Z" finished-at="2019-07-14T13:59:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30446" started-at="2019-07-14T13:59:07Z" finished-at="2019-07-14T13:59:37Z">
+      <class name="wallethub.test.App">
+        <test-method status="PASS" signature="preRequisites()[pri:0, instance:wallethub.test.App@37654521]" name="preRequisites" is-config="true" duration-ms="3" started-at="2019-07-14T13:59:07Z" finished-at="2019-07-14T13:59:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preRequisites -->
+        <test-method status="PASS" signature="assignmentTwo()[pri:0, instance:wallethub.test.App@37654521]" name="assignmentTwo" duration-ms="30418" started-at="2019-07-14T13:59:07Z" finished-at="2019-07-14T13:59:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assignmentTwo -->
+      </class> <!-- wallethub.test.App -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
